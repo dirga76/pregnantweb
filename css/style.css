@@ -1,0 +1,41 @@
+@import url(/css/font.css);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.isi {
+  font-family: Lato;
+}
+
+header {
+  background-color: #02457a;
+}
+.navbar {
+  background-color: #02457a;
+}
+.header1 {
+  background-color: #8d8d88;
+}
+
+.nav1 {
+  background-color: #8d8d88;
+}
+
+.fitur {
+  font-family: alika;
+}
+
+.caption {
+  font-family: alika;
+}
+h3 {
+  font-family: alika;
+}
+
+/* survey */
+.survey {
+  font-family: Lato;
+}

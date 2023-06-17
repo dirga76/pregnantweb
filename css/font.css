@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Lato;
+  src: url("/assets/font/Lato2OFL/Lato-Semibold.ttf");
+}
+
+@font-face {
+  font-family: alas1;
+  src: url("/assets/font/Alike-Regular.ttf");
+}
+@font-face {
+  font-family: alas2;
+  src: url("/assets/font/Pattaya-Regular.ttf");
+}
+@font-face {
+  font-family: alika;
+  src: url("/assets/font/Alike/Alike-Regular.ttf");
+}
